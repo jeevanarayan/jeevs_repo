@@ -1,0 +1,8 @@
+a=int(raw_input("a"))
+if(a>0):
+    print str(a)+" is a positive numbe"
+if(a==0):
+    print" the number is 0"
+else:
+    print str(a)+" is a negative number"
+

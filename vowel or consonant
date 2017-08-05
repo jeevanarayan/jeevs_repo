@@ -1,0 +1,16 @@
+a=raw_input("a")
+if(a=="a"):
+    print str(a)+" is vowel"
+if(a=="e"):
+    print str(a)+" is vowel"
+if(a=="i"):
+    print str(a)+" is vowel"
+if(a=="o"):
+    print str(a)+" is vowel"
+if(a=="u"):
+    print str(a)+" is vowel"
+else:
+    print str(a)+" is  a consonant"
+    
+
+    

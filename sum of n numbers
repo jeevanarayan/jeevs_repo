@@ -1,0 +1,6 @@
+sum=0
+a=int(raw_input("a"))
+for x in range(a+1):
+    sum=sum+x
+
+print" sum of n numbers =" +str(sum)

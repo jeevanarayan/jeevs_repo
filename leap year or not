@@ -1,0 +1,7 @@
+a=int(raw_input("a"))
+if(a%4==0):
+    print str(a)+" is a leap year"
+else:
+    print str(a)+" is not a leap year"
+    
+    
